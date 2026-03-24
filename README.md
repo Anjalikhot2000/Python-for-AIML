@@ -36,7 +36,7 @@ It covers a wide range of core programming concepts with simple examples and pra
 
 **### 🔹 1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/python-for-aiml.git
+git clone https://github.com/Anjalikhot2000/python-for-aiml.git
 
 **### 🔹 2. Navigate to the Folder**
 ```bash
