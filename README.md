@@ -2,7 +2,7 @@
 
 This repository contains a collection of **Python basics** required to build a strong foundation for **Artificial Intelligence and Machine Learning**.
 
----
+----
 
 ## 📚 Topics Covered
 
